@@ -14,6 +14,7 @@ body {
   background-color: #21222c;
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 30px;
 }
 
