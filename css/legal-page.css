@@ -14,8 +14,8 @@
 }
 
 main {
-  position: absolute;
-  top: 156px;
+  position: static;
+  margin-top: 156px;
 }
 
 section {
